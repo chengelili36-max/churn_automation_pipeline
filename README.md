@@ -2,8 +2,6 @@
 
 An end-to-end, production-grade machine learning pipeline that identifies high-risk telecommunications customers and automatically triggers targeted retention campaigns, translating predictive accuracy directly into business ROI.
 
-![Pipeline Execution](Screenshot 2026-05-20 at 12.55.08 PM)
-*(Above: Live terminal execution demonstrating precision-optimized modeling, $70k+ projected ROI, PostgreSQL database sync, and Mailchimp API payload generation.)*
 
 ## 🚀 Project Overview
 
